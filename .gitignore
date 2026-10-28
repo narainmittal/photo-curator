@@ -1,0 +1,22 @@
+# User data belongs outside the source repository.
+/data/
+/batches/
+/private/
+/exports/
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.heif
+*.mp4
+*.mov
+*.zip
+*.csv
+.env*
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+.DS_Store
